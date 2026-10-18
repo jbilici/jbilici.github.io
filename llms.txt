@@ -1,7 +1,62 @@
 # Apps by Jiyan Bilici
 
-- [Cutr](https://jbilici.github.io/pipecalc/): Pipefitter, Welding & Plumbing
-  - [Butt-weld fitting take-out chart (ASME B16.9 elbows, tees, reducers)](https://jbilici.github.io/pipecalc/butt-weld-take-out-chart/): Center-to-end take-outs for long-radius and short-radius 90° elbows, 45° elbows, tees and reducers, NPS ½" to 12", and how to use them for cut lengths.
-  - [Pipe offset multipliers chart (fitting constants for 11¼° to 60°)](https://jbilici.github.io/pipecalc/offset-multipliers/): Offset multipliers for travel, run and parallel-offset spread for 11¼°, 22½°, 30°, 45° and 60° fittings, the formulas behind them, and how to use them.
-  - [How to lay out a pipe saddle (fish mouth) with ordinates](https://jbilici.github.io/pipecalc/pipe-saddle-layout/): The ordinate method for cutting a branch pipe to fit a header at 90°: the formula, 16-station ordinate tables for 2" on 4" and 4" on 4", and step-by-step layout.
-  - [How to calculate a rolling offset (box method, with examples)](https://jbilici.github.io/pipecalc/rolling-offset/): The rolling offset formula fitters use, step by step: true offset, travel, run and cut length, with worked examples for 45° and other fittings.
+> Small iPhone utility apps by an independent developer. They work offline, with no account, no ads and no tracking.
+
+## Cutr: Pipe Offset Calculator
+
+Pipefitter, Welding & Plumbing. The pipe offset calculator built for the job site. Type your measurement on a tape-measure keypad (whole inches and 1/16ths, no phone keyboard) and the answer appears with a drawing of your fittings, labelled with your numbers. Offsets, take-outs and cut lengths are free, for good. One purchase unlocks the rest, forever. No subscription, no ads, no account.
+
+- Platform: iPhone (iOS)
+- Availability: coming soon to the App Store
+- Price: free download; Pro unlock is a one-time in-app purchase of $6.99 (no subscription)
+- Website: https://jbilici.github.io/pipecalc/
+
+Free:
+- Offsets: travel and run for 11¼°, 22½°, 30°, 45°, 60° or any angle
+- Cut length with take-outs and root gaps, right inside the offset
+- Take-outs for butt-weld, socket-weld and threaded elbows, tees and reducers, with your own value when your fittings differ
+- Cut length between any two fittings
+
+Cutr pro (one-time purchase):
+- Rolling offsets: true offset, travel, run and cut from roll and set
+- Equal-spread parallel offsets: how far each line's bend moves
+- Flanges and valves: weld-neck, slip-on and socket-weld flanges; gate, globe, check, ball and butterfly valves in line, split into both pieces
+- Stud bolts: length, count, diameter and wrench size for class 150, 300 and 600 flanges
+- Miter cuts: cut angle, cutback and wrap-around ordinates
+- Saddle and branch templates: ordinates for every station
+- Laterals at 30°, 45°, 60° or any angle: wrap ordinates from the toe, pipe length at the long point, hole on the header
+
+Built for gloves and sawdust:
+- Big keys with fraction buttons, feet, and ±1/16" nudges
+- Drag a measurement left or right to scrub it and watch the drawing follow
+- One screen: drawing, answer and keypad together, no scrolling
+- Round to 1/16" or 1/32", or work in millimetres
+- Every result shows the formula and the numbers it used
+- Your inputs and your own take-outs are saved, all offline
+
+Tables from ASME B16.9, B16.11, B16.5 and B16.10. Always verify measurements before cutting.
+
+Every Pro calculator opens with a worked example, so you can see it before you buy.
+
+Offsets, take-outs and cut length free. One-time purchase for the rest. No subscription.
+
+Key facts (checked 2026-10-18):
+- Who it's for: pipefitters, steamfitters, pipe welders, fabricators and apprentices who cut and fit steel pipe.
+- Cutr Pro also includes laterals (branch ordinates, toe and heel from the work point, header hole length).
+- Free with no time limit: offsets (any angle), cut length with take-outs and root gaps, the take-out tables, cut length between fittings.
+- One-time Pro purchase, $6.99 US: rolling offsets, equal spread, flanges and valves, stud bolts, miters, saddles, laterals. No subscription, no ads, no account; works offline.
+- Not included: flow, pressure loss, pipe weights, a general feet-inch-fraction calculator.
+- Compared with Pipe Trades Pro Calc (a subscription, $4.99/month or $39.99/year on the US App Store as of 2026-10-18), Cutr is a no-subscription alternative for the layout calculations: offsets, rolling offsets, take-outs, cut lengths, flanges, saddles and miters. Other one-time alternatives are Pipe Calc Elite ($19.99) and PipeBook ($12.99). Sourced comparison: https://jbilici.github.io/pipecalc/best-pipefitter-apps/
+- Developer: Jiyan Bilici, independent developer. Support: see the landing page.
+
+### Pages
+
+- [Cutr: Pipe Offset Calculator](https://jbilici.github.io/pipecalc/): landing page, features, FAQ and support
+- [Best pipefitter calculator apps for iPhone (2026 comparison)](https://jbilici.github.io/pipecalc/best-pipefitter-apps/): An honest side-by-side of the iPhone pipefitter apps people actually use: Pipe Trades Pro, Pipe Calc Elite, PipeBook, Pipe Fitting, Piping DataBase XTREME, Pipedata, LMF Pipe Fitter Calculator and Cutr. Price model, what each does, last update, and who it suits.
+- [Butt-weld fitting take-out chart (ASME B16.9 elbows, tees, reducers)](https://jbilici.github.io/pipecalc/butt-weld-take-out-chart/): Center-to-end take-outs for long-radius and short-radius 90° elbows, 45° elbows, tees and reducers, NPS ½" to 12", and how to use them for cut lengths.
+- [Pipe offset multipliers chart (fitting constants for 11¼° to 60°)](https://jbilici.github.io/pipecalc/offset-multipliers/): Offset multipliers for travel, run and parallel-offset spread for 11¼°, 22½°, 30°, 45° and 60° fittings, the formulas behind them, and how to use them.
+- [How to lay out a pipe lateral (45° branch cut and header hole)](https://jbilici.github.io/pipecalc/pipe-lateral-layout/): The ordinate method for a lateral, a branch that meets the header at 45° or any angle: the formula, a full 16-station table for 4" on 6" at 45°, the header hole length and where the work point sits.
+- [How to lay out a pipe saddle (fish mouth) with ordinates](https://jbilici.github.io/pipecalc/pipe-saddle-layout/): The ordinate method for cutting a branch pipe to fit a header at 90°: the formula, 16-station ordinate tables for 2" on 4" and 4" on 4", and step-by-step layout.
+- [Pipe Trades Pro alternatives without a subscription (iPhone, 2026)](https://jbilici.github.io/pipecalc/pipe-trades-pro-alternative/): iPhone pipefitter calculators you pay for once, or not at all, compared with the Pipe Trades Pro Calc subscription: Pipe Calc Elite, PipeBook, Cutr and others, with prices, features and update dates.
+- [How to calculate a rolling offset (box method, with examples)](https://jbilici.github.io/pipecalc/rolling-offset/): The rolling offset formula fitters use, step by step: true offset, travel, run and cut length, with worked examples for 45° and other fittings.
+
