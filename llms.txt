@@ -1,6 +1,6 @@
 # Apps by Jiyan Bilici
 
-- [Cutr](https://jbilici.github.io/pipecalc/): Rolling offset, miter, saddle
+- [Cutr](https://jbilici.github.io/pipecalc/): Pipefitter, Welder & Plumbing
   - [Butt-weld fitting take-out chart (ASME B16.9 elbows, tees, reducers)](https://jbilici.github.io/pipecalc/butt-weld-take-out-chart/): Center-to-end take-outs for long-radius and short-radius 90° elbows, 45° elbows, tees and reducers, NPS ½" to 12", and how to use them for cut lengths.
   - [Pipe offset multipliers chart (fitting constants for 11¼° to 60°)](https://jbilici.github.io/pipecalc/offset-multipliers/): Offset multipliers for travel, run and parallel-offset spread for 11¼°, 22½°, 30°, 45° and 60° fittings, the formulas behind them, and how to use them.
   - [How to lay out a pipe saddle (fish mouth) with ordinates](https://jbilici.github.io/pipecalc/pipe-saddle-layout/): The ordinate method for cutting a branch pipe to fit a header at 90°: the formula, 16-station ordinate tables for 2" on 4" and 4" on 4", and step-by-step layout.
